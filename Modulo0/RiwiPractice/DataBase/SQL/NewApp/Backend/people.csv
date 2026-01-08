@@ -1,0 +1,11 @@
+name,lastname,second_lastname,email,charge,city,salary,age
+Andrés,Uribe,Gómez,andres@email.com,Developer,Medellín,4500000,30
+Laura,Ramírez,López,laura@email.com,Designer,Bogotá,3800000,28
+Carlos,Pérez,Ruiz,carlos@email.com,Manager,Cali,5500000,40
+María,Gómez,Castro,maria@email.com,QA Analyst,Barranquilla,3200000,26
+Juan,Fernández,Martínez,juan@email.com,Backend Developer,Medellín,4700000,32
+Sofía,Martínez,Herrera,sofia@email.com,Product Owner,Bogotá,6200000,35
+Felipe,Castro,Jiménez,felipe@email.com,Data Analyst,Cali,4000000,29
+Valentina,López,Moreno,valentina@email.com,UI/UX Designer,Medellín,3900000,27
+Camilo,Ortiz,Gutiérrez,camilo@email.com,Frontend Developer,Cartagena,4600000,31
+Daniela,Hernández,Suárez,daniela@email.com,HR Manager,Bogotá,5000000,29

@@ -1,0 +1,90 @@
+@model IEnumerable<SecondWebMVC.Models.Cliente> 
+<!-- El modelo que recibe esta vista es una lista (IEnumerable) de objetos Cliente -->
+
+<h1 class="text-center">Administrador de Clientes</h1>
+<a class="btn btn-primary m-2" asp-action="Index" asp-controller="Producto">Ir a Productos</a> <!-- Ir a Productos -->
+
+<div class="row">
+    <!-- Columna del formulario para registrar un nuevo cliente -->
+    <div class="col-md-3"> <!-- Formulario Principal que Guarda los Clientes -->
+        <div class="card">
+            <div class="card-body">
+                <!-- El formulario envía la información al método Guardar del ClienteController -->
+                <form asp-action="Guardar">
+                    <div class="row"> <!-- Campos de entrada: Nombre, Apellido, Correo, Dirección, Teléfono -->
+                        <div class="col">
+                            <label>Nombre</label>
+                            <input type="text" class="form-control" name="Nombre">
+                        </div>
+                        <div class="col">
+                            <label>Apellido</label>
+                            <input type="text" class="form-control" name="Apellido">
+                        </div>
+                        <div>
+                            <label>Sexo</label>
+                            <input type="text" class="form-control" name="Sexo" placeholder="h.Hombre/ m.Mujer">
+                        </div>
+                        <div>
+                            <label>Correo</label>
+                            <input type="email" class="form-control" name="Correo">
+                        </div>
+                        <div>
+                            <label>Dirección</label>
+                            <input type="text" class="form-control" name="Direccion">
+                        </div>
+                        <div>
+                            <label>Teléfono</label>
+                            <input type="text" class="form-control" name="Telefono">
+                        </div>
+                    </div>
+                    <hr>
+                    <!-- Botón para enviar los datos y registrar el cliente -->
+                    <button type="submit" class="btn btn-success w-100">Guardar Cliente</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Columna de la tabla que lista todos los clientes -->
+    <div class="col-md-9"> <!-- Tabla Principal que muestra los Clientes-->
+        <table class="table">
+            <thead>
+            <tr>
+                <th scope="col">Id</th>       <!-- Columna del Id del Cliente -->
+                <th scope="col">Nombre</th>   <!-- Columna del Nombre -->
+                <th scope="col">Apellido</th> <!-- Columna del Apellido -->
+                <th scope="col">Detalles</th> <!-- Botón para ver Detalles -->
+                <th scope="col">Eliminar</th> <!-- Botón para Eliminar -->
+            </tr>
+            </thead>
+            <tbody>
+            @if (Model.Any()) // Validar que la lista (Model) no esté vacía o nula
+            {
+                foreach (var cliente in Model) // Recorrer la lista de clientes
+                {
+                    <tr>
+                        <td>@cliente.Id</td>         <!-- Muestra el Id -->
+                        <td>@cliente.Nombre</td>     <!-- Muestra el Nombre -->
+                        <td>@cliente.Apellido</td>   <!-- Muestra el Apellido -->
+                        <td>
+                            <!-- Botón que redirige a la acción Detalles enviando el Id -->
+                            <a class="btn btn-primary" asp-action="Detalles" asp-controller="Cliente"
+                               asp-route-id="@cliente.Id">Detalles</a>
+                        </td>
+                        <td>
+                            <!-- Botón que redirige a la acción Eliminar enviando el Id -->
+                            <a class="btn btn-danger" asp-action="Eliminar" asp-controller="Cliente"
+                               asp-route-id="@cliente.Id">Eliminar</a>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <!-- Si no hay clientes en la lista, mostrar este mensaje -->
+                <p class="text-center text-danger">¡No hay Clientes!</p>
+            }
+            </tbody>
+        </table>
+    </div>
+</div>

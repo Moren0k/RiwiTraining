@@ -1,0 +1,15 @@
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/TryCatch/TryCatch/bin/Debug/net8.0/TryCatch
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/TryCatch/TryCatch/bin/Debug/net8.0/TryCatch.deps.json
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/TryCatch/TryCatch/bin/Debug/net8.0/TryCatch.runtimeconfig.json
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/TryCatch/TryCatch/bin/Debug/net8.0/TryCatch.dll
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/TryCatch/TryCatch/bin/Debug/net8.0/TryCatch.pdb
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/TryCatch/TryCatch/obj/Debug/net8.0/TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/TryCatch/TryCatch/obj/Debug/net8.0/TryCatch.AssemblyInfoInputs.cache
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/TryCatch/TryCatch/obj/Debug/net8.0/TryCatch.AssemblyInfo.cs
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/TryCatch/TryCatch/obj/Debug/net8.0/TryCatch.csproj.CoreCompileInputs.cache
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/TryCatch/TryCatch/obj/Debug/net8.0/TryCatch.sourcelink.json
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/TryCatch/TryCatch/obj/Debug/net8.0/TryCatch.dll
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/TryCatch/TryCatch/obj/Debug/net8.0/refint/TryCatch.dll
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/TryCatch/TryCatch/obj/Debug/net8.0/TryCatch.pdb
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/TryCatch/TryCatch/obj/Debug/net8.0/TryCatch.genruntimeconfig.cache
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/TryCatch/TryCatch/obj/Debug/net8.0/ref/TryCatch.dll

@@ -1,0 +1,37 @@
+﻿@model SistemasRecetas.Models.Favorite
+
+<div class="container mt-3" style="max-width: 820px;">
+    <h3>Agregar a Favoritos (manual)</h3>
+
+    <form asp-action="Create" method="post" class="mt-3">
+        <div class="row g-3">
+            <div class="col-md-6">
+                <label class="form-label">IdMeal (opcional)</label>
+                <input class="form-control" asp-for="IdMeal" />
+            </div>
+            <div class="col-md-6">
+                <label class="form-label">Nombre</label>
+                <input class="form-control" asp-for="Name" />
+            </div>
+            <div class="col-12">
+                <label class="form-label">Imagen (URL)</label>
+                <input class="form-control" asp-for="Thumb" />
+            </div>
+
+            <div class="col-12">
+                <label class="form-label">Ingredientes (uno por línea)</label>
+                <textarea class="form-control" asp-for="IngredientsText" rows="6"></textarea>
+            </div>
+
+            <div class="col-12">
+                <label class="form-label">Instrucciones</label>
+                <textarea class="form-control" asp-for="InstructionsText" rows="8"></textarea>
+            </div>
+        </div>
+
+        <div class="mt-3">
+            <button type="submit" class="btn btn-success">Guardar</button>
+            <a class="btn btn-secondary ms-2" asp-action="Index">Cancelar</a>
+        </div>
+    </form>
+</div>

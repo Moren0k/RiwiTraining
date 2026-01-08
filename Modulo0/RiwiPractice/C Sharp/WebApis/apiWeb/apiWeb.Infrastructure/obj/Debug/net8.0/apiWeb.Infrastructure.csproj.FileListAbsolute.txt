@@ -1,0 +1,16 @@
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Infrastructure/bin/Debug/net8.0/apiWeb.Infrastructure.deps.json
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Infrastructure/bin/Debug/net8.0/apiWeb.Infrastructure.dll
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Infrastructure/bin/Debug/net8.0/apiWeb.Infrastructure.pdb
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Infrastructure/bin/Debug/net8.0/apiWeb.Domain.dll
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Infrastructure/bin/Debug/net8.0/apiWeb.Domain.pdb
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Infrastructure/obj/Debug/net8.0/apiWeb.Infrastructure.csproj.AssemblyReference.cache
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Infrastructure/obj/Debug/net8.0/apiWeb.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Infrastructure/obj/Debug/net8.0/apiWeb.Infrastructure.AssemblyInfoInputs.cache
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Infrastructure/obj/Debug/net8.0/apiWeb.Infrastructure.AssemblyInfo.cs
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Infrastructure/obj/Debug/net8.0/apiWeb.Infrastructure.csproj.CoreCompileInputs.cache
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Infrastructure/obj/Debug/net8.0/apiWeb.Infrastructure.sourcelink.json
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Infrastructure/obj/Debug/net8.0/apiWeb.Infrastructure.csproj.CopyComplete
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Infrastructure/obj/Debug/net8.0/apiWeb.Infrastructure.dll
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Infrastructure/obj/Debug/net8.0/refint/apiWeb.Infrastructure.dll
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Infrastructure/obj/Debug/net8.0/apiWeb.Infrastructure.pdb
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Infrastructure/obj/Debug/net8.0/ref/apiWeb.Infrastructure.dll

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Panel de Pruebas API</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      height: 100vh;
+      background-color: #f8f9fa;
+    }
+    .sidebar {
+      background-color: #ffffff;
+      padding: 1.5rem;
+      border-radius: 0.5rem;
+      box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,0.075);
+      height: 100%;
+      overflow-y: auto;
+    }
+    .output-section {
+      background-color: #212529;
+      color: #f8f9fa;
+      padding: 1rem;
+      border-radius: 0.5rem;
+      height: 100%;
+      overflow-y: auto;
+    }
+    h1, h2, h3 {
+      margin-bottom: 1rem;
+    }
+    form input {
+      margin-bottom: 0.5rem;
+    }
+    button {
+      margin-right: 0.5rem;
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body class="container-fluid py-3 p-5">
+
+  <h1 class="text-center mb-4">Panel de Pruebas API</h1>
+
+  <div class="row" style="height: calc(100% - 80px);">
+    <!-- Left Sidebar: Forms -->
+    <div class="col-md-6 sidebar">
+      
+      <!-- ========== PRODUCTS ========== -->
+      <section class="mb-4">
+        <h2>Products</h2>
+        <form id="productForm" class="row g-2">
+          <div class="col-md-3">
+            <input type="number" class="form-control" id="productId" placeholder="ID">
+          </div>
+          <div class="col-md-3">
+            <input type="text" class="form-control" id="productName" placeholder="Nombre">
+          </div>
+          <div class="col-md-3">
+            <input type="text" class="form-control" id="productDescription" placeholder="Descripción">
+          </div>
+          <div class="col-md-3">
+            <input type="number" class="form-control" id="productPrice" placeholder="Precio">
+          </div>
+          <div class="col-12 d-flex flex-wrap">
+            <button type="button" class="btn btn-success me-2" onclick="addProduct()">Agregar</button>
+            <button type="button" class="btn btn-primary me-2" onclick="updateProduct()">Editar</button>
+            <button type="button" class="btn btn-danger me-2" onclick="deleteProduct()">Eliminar</button>
+            <button type="button" class="btn btn-outline-secondary" onclick="getProducts()">Ver productos</button>
+          </div>
+        </form>
+      </section>
+
+      <!-- ========== CUSTOMERS ========== -->
+      <section class="mb-4">
+        <h2>Customers</h2>
+        <form id="customerForm" class="row g-2">
+          <div class="col-md-3">
+            <input type="number" class="form-control" id="customerId" placeholder="ID">
+          </div>
+          <div class="col-md-3">
+            <input type="text" class="form-control" id="customerName" placeholder="Nombre">
+          </div>
+          <div class="col-md-3">
+            <input type="text" class="form-control" id="customerLastName" placeholder="Apellido">
+          </div>
+          <div class="col-md-3">
+            <input type="email" class="form-control" id="customerEmail" placeholder="Email">
+          </div>
+          <div class="col-12 d-flex flex-wrap">
+            <button type="button" class="btn btn-success me-2" onclick="addCustomer()">Agregar</button>
+            <button type="button" class="btn btn-primary me-2" onclick="updateCustomer()">Editar</button>
+            <button type="button" class="btn btn-danger me-2" onclick="deleteCustomer()">Eliminar</button>
+            <button type="button" class="btn btn-outline-secondary" onclick="getCustomers()">Ver clientes</button>
+          </div>
+        </form>
+      </section>
+
+    </div>
+
+    <!-- Right: Output -->
+    <div class="col-md-6 output-section">
+      <h3>Resultado</h3>
+      <pre id="output"></pre>
+    </div>
+  </div>
+
+  <script src="./script.js"></script>
+</body>
+</html>

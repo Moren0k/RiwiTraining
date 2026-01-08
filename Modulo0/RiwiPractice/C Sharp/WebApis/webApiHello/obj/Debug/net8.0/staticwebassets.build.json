@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lYXjUrt80CVLP6dNRH+TlgnGlNIo99WG4kL0Uxj7WAg=",
+  "Source": "webApiHello",
+  "BasePath": "_content/webApiHello",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

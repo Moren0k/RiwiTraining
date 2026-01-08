@@ -1,0 +1,23 @@
+@model firstMvc.Models.Producto
+
+<h1>Funciona</h1>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Nombre</th>
+        <th>Descripcion</th>
+        <th>Precio</th>
+    </tr>
+    </thead>
+    <tbody>
+    <td>@Model.ID</td>
+    <td>@Model.Nombre</td>
+    <td>@Model.Descripcion</td>
+    <td>@Model.Precio</td>
+    <td>
+        <a class="btn btn-primary" asp-action="Index" asp-controller="Producto">Volver</a>
+    </td>
+    </tbody>
+</table>

@@ -1,0 +1,15 @@
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll

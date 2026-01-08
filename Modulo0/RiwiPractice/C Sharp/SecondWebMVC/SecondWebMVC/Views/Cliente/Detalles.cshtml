@@ -1,0 +1,95 @@
+@model SecondWebMVC.Models.Cliente
+<!-- El modelo que recibe esta vista es un solo objeto Cliente -->
+
+<h1 class="text-center">Detalles del cliente</h1>
+
+<div class="row">
+    <!-- Columna izquierda: formulario para editar al cliente -->
+    <div class="col-md-4"> <!-- Formulario Principal que Edita los Clientes -->
+        <div class="card">
+            <div class="card-body">
+                <!-- El formulario envía la información al método Editar del ClienteController -->
+                <form asp-action="Editar"> <!-- Campos: Nombre, Apellido, Correo, Dirección, Teléfono -->
+                    <h6 class="text-center">Editar Cliente</h6>
+
+                    <!-- Campo oculto que guarda el Id del cliente (no se modifica) -->
+                    <input type="hidden" asp-for="Id"/>
+
+                    <div class="row">
+                        <!-- Campo editable para el Nombre -->
+                        <div class="col p-1">
+                            <input type="text" class="form-control" name="Nombre"
+                                   placeholder="@Model.Nombre" value="@Model.Nombre">
+                        </div>
+
+                        <!-- Campo editable para el Apellido -->
+                        <div class="col p-1">
+                            <input type="text" class="form-control" name="Apellido"
+                                   placeholder="@Model.Apellido" value="@Model.Apellido">
+                        </div>
+                        
+                        <!-- Campo editable para el Sexo -->
+                        <div class="p-1">
+                            <input type="text" class="form-control" name="Sexo"
+                                   placeholder="@Model.Sexo" value="@Model.Sexo">
+                        </div>
+
+                        <!-- Campo editable para el Correo -->
+                        <div class="p-1">
+                            <input type="email" class="form-control" name="Correo"
+                                   placeholder="@Model.Correo" value="@Model.Correo">
+                        </div>
+
+                        <!-- Campo editable para la Dirección -->
+                        <div class="p-1">
+                            <input type="text" class="form-control" name="Direccion"
+                                   placeholder="@Model.Direccion" value="@Model.Direccion">
+                        </div>
+
+                        <!-- Campo editable para el Teléfono -->
+                        <div class="p-1">
+                            <input type="text" class="form-control" name="Telefono"
+                                   placeholder="@Model.Telefono" value="@Model.Telefono">
+                        </div>
+                    </div>
+
+                    <hr>
+                    <!-- Botón para guardar los cambios realizados en el cliente -->
+                    <button type="submit" class="btn btn-success w-100">Guardar cambios</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- Columna derecha: tabla que muestra la información actual del cliente -->
+    <div class="col-md-8"> <!-- Tabla Principal que muestra los Detalles del Cliente-->
+        <!-- Botón para regresar a la lista de clientes (Index) -->
+        <a class="btn btn-primary" asp-action="Index" asp-controller="Cliente">Volver</a>
+
+        <table class="table">
+            <thead>
+            <tr>
+                <th scope="col">Id</th>        <!-- Encabezado Id -->
+                <th scope="col">Nombre</th>    <!-- Encabezado Nombre -->
+                <th scope="col">Apellido</th>  <!-- Encabezado Apellido -->
+                <th scope="col">Sexo</th>      <!-- Encabezado Sexo -->
+                <th scope="col">Correo</th>    <!-- Encabezado Correo -->
+                <th scope="col">Dirección</th> <!-- Encabezado Dirección -->
+                <th scope="col">Teléfono</th>  <!-- Encabezado Teléfono -->
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <!-- Fila que muestra todos los datos actuales del cliente -->
+                <td>@Model.Id</td>
+                <td>@Model.Nombre</td>
+                <td>@Model.Apellido</td>
+                <td>@(Model.Sexo == "h" ? "❤" : "❤❤")</td>
+                <td>@Model.Correo</td>
+                <td>@Model.Direccion</td>
+                <td>@Model.Telefono</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

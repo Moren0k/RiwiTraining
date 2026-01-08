@@ -1,0 +1,12 @@
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Domain/bin/Debug/net8.0/Customers.Domain.deps.json
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Domain/bin/Debug/net8.0/Customers.Domain.dll
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Domain/bin/Debug/net8.0/Customers.Domain.pdb
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Domain/obj/Debug/net8.0/Customers.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Domain/obj/Debug/net8.0/Customers.Domain.AssemblyInfoInputs.cache
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Domain/obj/Debug/net8.0/Customers.Domain.AssemblyInfo.cs
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Domain/obj/Debug/net8.0/Customers.Domain.csproj.CoreCompileInputs.cache
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Domain/obj/Debug/net8.0/Customers.Domain.sourcelink.json
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Domain/obj/Debug/net8.0/Customers.Domain.dll
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Domain/obj/Debug/net8.0/refint/Customers.Domain.dll
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Domain/obj/Debug/net8.0/Customers.Domain.pdb
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Domain/obj/Debug/net8.0/ref/Customers.Domain.dll

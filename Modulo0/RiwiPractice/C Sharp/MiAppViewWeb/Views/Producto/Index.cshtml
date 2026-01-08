@@ -1,0 +1,9 @@
+@model List<MiApp.Models.Producto>
+
+<h2>Lista de Productos</h2>
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>@item.Id - @item.Nombre - @item.Precio</li>
+    }
+</ul>

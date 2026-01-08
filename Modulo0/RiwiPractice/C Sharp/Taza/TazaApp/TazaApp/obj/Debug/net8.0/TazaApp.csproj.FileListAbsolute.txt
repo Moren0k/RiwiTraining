@@ -1,0 +1,15 @@
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/Taza/TazaApp/TazaApp/bin/Debug/net8.0/TazaApp
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/Taza/TazaApp/TazaApp/bin/Debug/net8.0/TazaApp.deps.json
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/Taza/TazaApp/TazaApp/bin/Debug/net8.0/TazaApp.runtimeconfig.json
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/Taza/TazaApp/TazaApp/bin/Debug/net8.0/TazaApp.dll
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/Taza/TazaApp/TazaApp/bin/Debug/net8.0/TazaApp.pdb
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/Taza/TazaApp/TazaApp/obj/Debug/net8.0/TazaApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/Taza/TazaApp/TazaApp/obj/Debug/net8.0/TazaApp.AssemblyInfoInputs.cache
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/Taza/TazaApp/TazaApp/obj/Debug/net8.0/TazaApp.AssemblyInfo.cs
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/Taza/TazaApp/TazaApp/obj/Debug/net8.0/TazaApp.csproj.CoreCompileInputs.cache
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/Taza/TazaApp/TazaApp/obj/Debug/net8.0/TazaApp.sourcelink.json
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/Taza/TazaApp/TazaApp/obj/Debug/net8.0/TazaApp.dll
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/Taza/TazaApp/TazaApp/obj/Debug/net8.0/refint/TazaApp.dll
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/Taza/TazaApp/TazaApp/obj/Debug/net8.0/TazaApp.pdb
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/Taza/TazaApp/TazaApp/obj/Debug/net8.0/TazaApp.genruntimeconfig.cache
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/Taza/TazaApp/TazaApp/obj/Debug/net8.0/ref/TazaApp.dll

@@ -1,0 +1,16 @@
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Application/bin/Debug/net8.0/Customers.Application.deps.json
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Application/bin/Debug/net8.0/Customers.Application.dll
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Application/bin/Debug/net8.0/Customers.Application.pdb
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Application/bin/Debug/net8.0/Customers.Domain.dll
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Application/bin/Debug/net8.0/Customers.Domain.pdb
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Application/obj/Debug/net8.0/Customers.Application.csproj.AssemblyReference.cache
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Application/obj/Debug/net8.0/Customers.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Application/obj/Debug/net8.0/Customers.Application.AssemblyInfoInputs.cache
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Application/obj/Debug/net8.0/Customers.Application.AssemblyInfo.cs
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Application/obj/Debug/net8.0/Customers.Application.csproj.CoreCompileInputs.cache
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Application/obj/Debug/net8.0/Customers.Application.sourcelink.json
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Application/obj/Debug/net8.0/Customers.Application.csproj.CopyComplete
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Application/obj/Debug/net8.0/Customers.Application.dll
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Application/obj/Debug/net8.0/refint/Customers.Application.dll
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Application/obj/Debug/net8.0/Customers.Application.pdb
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/WebApiCustomers/Customers.Application/obj/Debug/net8.0/ref/Customers.Application.dll

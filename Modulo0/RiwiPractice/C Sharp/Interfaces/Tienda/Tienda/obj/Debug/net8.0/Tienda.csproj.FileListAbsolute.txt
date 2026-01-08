@@ -1,0 +1,15 @@
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/Tienda/Tienda/bin/Debug/net8.0/Tienda
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/Tienda/Tienda/bin/Debug/net8.0/Tienda.deps.json
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/Tienda/Tienda/bin/Debug/net8.0/Tienda.runtimeconfig.json
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/Tienda/Tienda/bin/Debug/net8.0/Tienda.dll
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/Tienda/Tienda/bin/Debug/net8.0/Tienda.pdb
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/Tienda/Tienda/obj/Debug/net8.0/Tienda.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/Tienda/Tienda/obj/Debug/net8.0/Tienda.AssemblyInfoInputs.cache
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/Tienda/Tienda/obj/Debug/net8.0/Tienda.AssemblyInfo.cs
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/Tienda/Tienda/obj/Debug/net8.0/Tienda.csproj.CoreCompileInputs.cache
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/Tienda/Tienda/obj/Debug/net8.0/Tienda.sourcelink.json
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/Tienda/Tienda/obj/Debug/net8.0/Tienda.dll
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/Tienda/Tienda/obj/Debug/net8.0/refint/Tienda.dll
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/Tienda/Tienda/obj/Debug/net8.0/Tienda.pdb
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/Tienda/Tienda/obj/Debug/net8.0/Tienda.genruntimeconfig.cache
+/home/kevinmorenocsharp/RiderProjects/Riwi_Challenges/C Sharp/Interfaces/Tienda/Tienda/obj/Debug/net8.0/ref/Tienda.dll

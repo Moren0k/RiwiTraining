@@ -1,0 +1,12 @@
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Domain/bin/Debug/net8.0/apiWeb.Domain.deps.json
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Domain/bin/Debug/net8.0/apiWeb.Domain.dll
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Domain/bin/Debug/net8.0/apiWeb.Domain.pdb
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Domain/obj/Debug/net8.0/apiWeb.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Domain/obj/Debug/net8.0/apiWeb.Domain.AssemblyInfoInputs.cache
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Domain/obj/Debug/net8.0/apiWeb.Domain.AssemblyInfo.cs
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Domain/obj/Debug/net8.0/apiWeb.Domain.csproj.CoreCompileInputs.cache
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Domain/obj/Debug/net8.0/apiWeb.Domain.sourcelink.json
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Domain/obj/Debug/net8.0/apiWeb.Domain.dll
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Domain/obj/Debug/net8.0/refint/apiWeb.Domain.dll
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Domain/obj/Debug/net8.0/apiWeb.Domain.pdb
+/home/kevincsharp/Documentos/Riwi_Challenges/C Sharp/WebApis/apiWeb/apiWeb.Domain/obj/Debug/net8.0/ref/apiWeb.Domain.dll

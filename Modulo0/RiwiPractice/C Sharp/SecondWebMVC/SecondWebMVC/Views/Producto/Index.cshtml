@@ -1,0 +1,84 @@
+@model IEnumerable<SecondWebMVC.Models.Producto>
+@using SecondWebMVC.Controllers
+
+@{
+    // obtener clientes
+    var clientes = ClienteController.Clientes; // Clientes es público
+}
+<h1 class="text-center">Administrador de Productos</h1>
+<a class="btn btn-primary m-2" asp-action="Index" asp-controller="Cliente">Ir A Clientes</a> <!-- Ir a Clientes -->
+
+<div class="row">
+    <div class="col-md-3">
+        <div class="card">
+            <div class="card-body">
+                <!-- Formulario para agregar un nuevo Producto -->
+                <form asp-action="CrearProducto">
+                    <div class="row">
+                        <div>
+                            <label>Nombre Producto</label>
+                            <input type="text" class="form-control" name="Nombre">
+                        </div>
+                        <div>
+                            <label>Precio Producto</label>
+                            <input type="number" class="form-control" name="Precio">
+                        </div>
+                        <div>
+                            <label>Cliente</label>
+                            <select name="ClienteId" class="form-control">
+                                <option value="">-- Seleccione un cliente --</option>
+                                @foreach (var c in clientes)
+                                {
+                                    <option value="@c.Id">@c.Nombre @c.Apellido</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+                    <hr>
+                    <!-- Botón para enviar los datos y registrar el cliente -->
+                    <button type="submit" class="btn btn-success w-100">Guardar Producto</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Columna de la tabla que lista todos los clientes -->
+    <div class="col-md-9"> <!-- Tabla Principal que muestra los Clientes-->
+        <table class="table">
+            <thead>
+            <tr>
+                <th scope="col">Id</th>       <!-- Columna del Id del Cliente -->
+                <th scope="col">Nombre</th>   <!-- Columna del Nombre -->
+                <th scope="col">Precio</th>   <!-- Columna del Precio -->
+                <th scope="col">Cliente</th>  <!-- Columna del Cliente -->
+                <th scope="col">Eliminar</th> <!-- Botón para Eliminar -->
+            </tr>
+            </thead>
+            <tbody>
+            @if (Model.Any()) // Validar que la lista (Model) no esté vacía o nula
+            {
+                foreach (var producto in Model) // Recorrer la lista de Productos
+                {
+                    <tr>
+                        <td>@producto.Id</td>         <!-- Muestra el Id -->
+                        <td>@producto.Nombre</td>     <!-- Muestra el Nombre -->
+                        <td>@producto.Precio</td>     <!-- Muestra el Precio -->
+                        <td>[@producto.ClienteId] @producto.Cliente?.Nombre</td> <!-- Muestra el Id.NombreCliente -->
+                        <td>
+                            <!-- Botón que redirige a la acción Eliminar enviando el Id -->
+                            <a class="btn btn-danger" asp-action="EliminarProducto" asp-controller="Producto"
+                               asp-route-id="@producto.Id">Eliminar</a>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <!-- Si no hay Productos en la lista, mostrar este mensaje -->
+                <p class="text-center text-danger">¡No hay Productos!</p>
+            }
+            </tbody>
+        </table>
+    </div>
+</div>
+

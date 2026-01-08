@@ -1,0 +1,15 @@
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/API's/Universidades_Api/Universidades_Api/bin/Debug/net8.0/Universidades_Api
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/API's/Universidades_Api/Universidades_Api/bin/Debug/net8.0/Universidades_Api.deps.json
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/API's/Universidades_Api/Universidades_Api/bin/Debug/net8.0/Universidades_Api.runtimeconfig.json
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/API's/Universidades_Api/Universidades_Api/bin/Debug/net8.0/Universidades_Api.dll
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/API's/Universidades_Api/Universidades_Api/bin/Debug/net8.0/Universidades_Api.pdb
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/API's/Universidades_Api/Universidades_Api/obj/Debug/net8.0/Universidades_Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/API's/Universidades_Api/Universidades_Api/obj/Debug/net8.0/Universidades_Api.AssemblyInfoInputs.cache
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/API's/Universidades_Api/Universidades_Api/obj/Debug/net8.0/Universidades_Api.AssemblyInfo.cs
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/API's/Universidades_Api/Universidades_Api/obj/Debug/net8.0/Universidades_Api.csproj.CoreCompileInputs.cache
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/API's/Universidades_Api/Universidades_Api/obj/Debug/net8.0/Universidades_Api.sourcelink.json
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/API's/Universidades_Api/Universidades_Api/obj/Debug/net8.0/Universidades_Api.dll
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/API's/Universidades_Api/Universidades_Api/obj/Debug/net8.0/refint/Universidades_Api.dll
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/API's/Universidades_Api/Universidades_Api/obj/Debug/net8.0/Universidades_Api.pdb
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/API's/Universidades_Api/Universidades_Api/obj/Debug/net8.0/Universidades_Api.genruntimeconfig.cache
+/home/kevinmorenocsharp/Documentos/Riwi_Challenges/C Sharp/API's/Universidades_Api/Universidades_Api/obj/Debug/net8.0/ref/Universidades_Api.dll
