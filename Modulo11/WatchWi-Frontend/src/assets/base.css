@@ -1,0 +1,93 @@
+/* src/assets/base.css
+   Base real: tokens + normalize mínimo (sin layout, sin estilos de componentes)
+*/
+
+:root {
+    /* ====== THEME TOKENS (Dark cinema + neon purple accent) ====== */
+    --color-bg: #07060a;
+    /* fondo principal */
+    --color-surface: #0f0c14;
+    /* superficies (cards/modals) */
+    --color-surface-2: #16111f;
+    /* elevación suave */
+    --color-text: #f1f1f3;
+    /* texto principal */
+    --color-muted: #a6a1b3;
+    /* texto secundario */
+    --color-border: rgba(255, 255, 255, 0.10);
+
+    /* Accent (morado fosforescente) */
+    --color-primary: #b100ff;
+    --color-primary-2: #7c00ff;
+    --color-glow: rgba(177, 0, 255, 0.45);
+
+    /* Estados */
+    --color-danger: #ff3b6b;
+    --color-success: #16a34a;
+    --color-warning: #f59e0b;
+
+    /* ====== TYPOGRAPHY TOKENS ====== */
+    --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial,
+        "Noto Sans", "Helvetica Neue", sans-serif;
+    --font-size-base: 16px;
+    --line-height-base: 1.5;
+
+    /* ====== SPACING SCALE ====== */
+    --space-1: 4px;
+    --space-2: 8px;
+    --space-3: 12px;
+    --space-4: 16px;
+    --space-5: 20px;
+    --space-6: 24px;
+    --space-8: 32px;
+    --space-10: 40px;
+    --space-12: 48px;
+
+    /* ====== RADIUS & SHADOW TOKENS ====== */
+    --radius-1: 6px;
+    --radius-2: 10px;
+    --radius-3: 16px;
+
+    --shadow-1: 0 1px 2px rgba(0, 0, 0, 0.30);
+    --shadow-2: 0 8px 30px rgba(0, 0, 0, 0.55);
+}
+
+/* ====== MINIMAL NORMALIZE (sin layout) ====== */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: var(--font-size-base);
+}
+
+body {
+    margin: 0;
+    font-family: var(--font-sans);
+    line-height: var(--line-height-base);
+    color: var(--color-text);
+    background: var(--color-bg);
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Media defaults */
+img,
+video,
+canvas,
+svg {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Form elements inherit typography */
+button,
+input,
+textarea,
+select {
+    font: inherit;
+}
