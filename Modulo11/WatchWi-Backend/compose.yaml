@@ -1,0 +1,7 @@
+﻿services:
+  watchwi.api:
+    image: watchwi.api
+    build:
+      context: .
+      dockerfile: src/Watchwi.Api/Dockerfile
+
