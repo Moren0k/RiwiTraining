@@ -112,12 +112,6 @@ Plataforma para digitalizar el alquiler vehicular en Colombia. Tres sistemas int
 
 ---
 
-### Orbis — Detector con Inteligencia Artificial
-
-Proyecto de detección y clasificación automática de contenido mediante modelos de IA. *(En desarrollo)*
-
----
-
 ## Contacto
 
 [LinkedIn](https://www.linkedin.com/in/jhoskevinagudelomoreno/) · Email: jhoskevinagudelomoreno@gmail.com
